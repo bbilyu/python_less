@@ -1,0 +1,11 @@
+name,parent,size,type
+file_seven.txt,K:\python_lessons\home_work\hw_eight\dirs\dir_one\dir_three,74,file
+file_six.txt,K:\python_lessons\home_work\hw_eight\dirs\dir_one\dir_three,62,file
+file_five.txt,K:\python_lessons\home_work\hw_eight\dirs\dir_one,52,file
+file_four.txt,K:\python_lessons\home_work\hw_eight\dirs\dir_two,41,file
+file_three.txt,K:\python_lessons\home_work\hw_eight\dirs\dir_two,30,file
+file_one.txt,K:\python_lessons\home_work\hw_eight\dirs,8,file
+file_two.txt,K:\python_lessons\home_work\hw_eight\dirs,18,file
+dir_one,K:\python_lessons\home_work\hw_eight\dirs,188,directory
+dir_three,K:\python_lessons\home_work\hw_eight\dirs\dir_one,136,directory
+dir_two,K:\python_lessons\home_work\hw_eight\dirs,71,directory
