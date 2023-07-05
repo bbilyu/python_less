@@ -3,7 +3,7 @@ from home_work.hw_two.atm.money import Money
 
 class Rubles(Money):
     def __init__(self,value: float):
-        self.value = value
+        super().__init__(value)
         self.sign = "Ꝑ"
 
     def set_value(self,value):
